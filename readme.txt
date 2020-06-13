@@ -1,4 +1,5 @@
 © 2019 - 2020 MaxCorpIndustries
+
 UPDATE 1.1: Fixed google chrome not working.
 
 SCP C-Com Terminal Rainmeter skin! Based on the SCP Monitors (scpcb.gamepedia.com/Monitors)
