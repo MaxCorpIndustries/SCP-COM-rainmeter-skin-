@@ -4,18 +4,19 @@ UPDATE 1.1: Fixed google chrome not working.
 
 SCP C-Com Terminal Rainmeter skin! Based on the SCP Monitors (scpcb.gamepedia.com/Monitors)
 
--------DOWNLOAD-------
+# Download
 https://www.deviantart.com/maxcorpindustries/art/SCP-C-COM-Terminal-1-808016834
 
 -(Requires rainmeter to be installed on your machine)
 
 
-Hotkey plugin Needed for non mouse commands:
+# Plugins
 https://forum.rainmeter.net/download/file.php?id=11590&sid=cba79ae646ae02bd4f4c974218991ccbHotkey Commands:
 CTRL R: Reset
 
 The skin is designed to shape around different resolutions (down to 1200x800 if desired).
 
+# Troubleshooting
 NOTE: IF YOU SEE THE ERROR: "User name is missing in settings files UserSettings.inc":
 Right click SCP C-Com folder, click "open folder" go in "Resources" and edit the file UserSettings.inc with your twitch username and Oauth (www.twitchapps.com/tmi/)
 
