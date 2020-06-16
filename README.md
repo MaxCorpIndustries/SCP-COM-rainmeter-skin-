@@ -4,6 +4,8 @@ UPDATE 1.1: Fixed google chrome not working.
 
 SCP C-Com Terminal Rainmeter skin! Based on the SCP Monitors (scpcb.gamepedia.com/Monitors)
 
+![alt text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f254f68e-7f3f-4cab-a8f6-5ed0d3d5e436/ddd2ls2-19c20c7c-b492-4c83-8925-f46a8ea86cf1.png)
+
 # Download
 https://www.deviantart.com/maxcorpindustries/art/SCP-C-COM-Terminal-1-808016834
 
